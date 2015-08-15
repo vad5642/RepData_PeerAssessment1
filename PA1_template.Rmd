@@ -8,18 +8,20 @@ output:
 
 ## Loading and preprocessing the data
 
-
+hyfguig
 
 ## What is mean total number of steps taken per day?
 
-
+ubgi
 
 ## What is the average daily activity pattern?
 
-
+ihiohioh
 
 ## Imputing missing values
 
-
+ihiohioh
 
 ## Are there differences in activity patterns between weekdays and weekends?
+
+ihiohiohioh
